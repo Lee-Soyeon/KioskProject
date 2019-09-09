@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pic12_Cancel" size="1.000000 1.781076" />
+    <ImageTarget name="pic11_finished" size="1.000000 1.774917" />
+    <ImageTarget name="pic10_Payment" size="1.000000 1.754970" />
+    <ImageTarget name="pic9_OrderCheck" size="1.000000 1.451404" />
+    <ImageTarget name="pic1_burger" size="1.000000 1.728537" />
+    <ImageTarget name="pic8_SuRyang_full" size="1.000000 1.471161" />
+    <ImageTarget name="pic8_SuRyang_1" size="1.000000 0.568761" />
+  </Tracking>
+</QCARConfig>
