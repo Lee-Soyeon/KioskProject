@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="15_orderCancel" size="1.000000 1.474788" />
+    <ImageTarget name="14_orderNumber" size="1.000000 1.464519" />
+    <ImageTarget name="13_cardGuide" size="1.000000 1.542216" />
+    <ImageTarget name="12_tableService" size="1.000000 1.587817" />
+    <ImageTarget name="11_payment" size="1.000000 1.698286" />
+    <ImageTarget name="10_finish" size="1.000000 1.755478" />
+    <ImageTarget name="9_setQuantity" size="1.000000 1.366103" />
+  </Tracking>
+</QCARConfig>
