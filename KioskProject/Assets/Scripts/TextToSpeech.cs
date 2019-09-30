@@ -54,14 +54,11 @@ public class TextToSpeech : MonoBehaviour, ITrackableEventHandler
         using (UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(url, AudioType.MPEG))
         {
             www.SetRequestHeader("User-Agent", "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36");
-            //www.SetRequestHeader("Referer", url);
             yield return www.SendWebRequest();
             _audio.clip = DownloadHandlerAudioClip.GetContent(www);
         }
 
         //_audio.clip = www.GetAudioClip(true, false, AudioType.MPEG);
-        Debug.Log(_audio.clip + " / GetAudioClip complete");
         _audio.Play();
-        Debug.Log("_audio.Play() complete");
     }
 }
