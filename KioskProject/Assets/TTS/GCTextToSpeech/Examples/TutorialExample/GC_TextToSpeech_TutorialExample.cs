@@ -165,7 +165,6 @@ namespace FrostweepGames.Plugins.GoogleCloud.TextToSpeech
             FillVoicesList();
         }
 
-
         #endregion sucess handlers
     }
 }
