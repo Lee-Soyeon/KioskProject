@@ -26,20 +26,7 @@
 
         public enum LanguageCode
         {
-            en_AU,
-            nl_NL,
-            en_GB,
-            en_US,
-            fr_FR,
-            fr_CA,
-            de_DE,
-            it_IT,
-            ja_JP,
-            ko_KR,
-            pt_BR,
-            es_ES,
-            sv_SE,
-            tr_TR
+            ko_KR
         }
 
         public enum VoiceType
