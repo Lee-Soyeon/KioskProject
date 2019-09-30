@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="french_fries_new" size="1.000000 1.485981" />
+    <ImageTarget name="select_more" size="1.000000 1.461694" />
+    <ImageTarget name="select_quantity" size="1.000000 1.526714" />
+    <ImageTarget name="table_service" size="1.000000 1.729229" />
     <ImageTarget name="select_cup_4" size="1.000000 1.513322" />
     <ImageTarget name="recommended_menu_4" size="1.000000 1.811218" />
     <ImageTarget name="burger_and_set_4" size="1.000000 1.803738" />
     <ImageTarget name="recommended_menu_2" size="1.000000 1.763867" />
     <ImageTarget name="select_beverage_8" size="1.000000 1.480287" />
-    <ImageTarget name="french_fries_4" size="1.000000 1.501253" />
     <ImageTarget name="select_component_6" size="1.000000 0.844348" />
   </Tracking>
 </QCARConfig>
