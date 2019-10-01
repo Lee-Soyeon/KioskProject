@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/4_Jiyun.unity
-    guid: 408db0b4f9d448d45af826c5fe421b0d
+  m_Scenes: []
   m_configObjects: {}
